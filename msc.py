@@ -9,6 +9,7 @@ import heat
 import heat_new
 import plot
 
+#prueba
 
 #Función del problema de Poisson discretizado
 def F_h(a):
